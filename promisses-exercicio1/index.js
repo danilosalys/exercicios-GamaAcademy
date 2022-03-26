@@ -24,14 +24,3 @@ somar(45, 100).catch((error) => console.log(error));
 somar(1, 'a').catch((error) => console.log(error));
 somar('b', '1').catch((error) => console.log(error));
 somar(80, 10).catch((error) => console.log(error));
-
-
-// somar(3, 3);
-
-// somar("1", "1");
-
-// somar(1, 1);
-
-// somar("a", 100);
-
-// somar("a", "b");
